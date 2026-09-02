@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=AI+Developer+%26+Model+Trainer;Data+Science+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=AI+Developer+%26+Model+Trainer;Data+Analyst;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 
 ---
@@ -28,18 +28,22 @@ Passionate about learning, sharing, and building things.
 </p>
 </p>
 
-**AI / ML & Data Science**
+**AI / ML & Data Analysis**
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white
+  https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white
+  https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white
+  https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white
+  https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black
+  https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white
+  https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white
+  https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white
+  https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white
+  https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white
+  https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white
+  https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white
+  https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white
+  https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white
 </p>
 
 ---
