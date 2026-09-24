@@ -72,4 +72,4 @@ Passionate about learning, sharing, and building things.
   <a href="https://jacquesnicobelmonte.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-</p>can you add power bi, sql, tableau, and sap in ai/ml and data analysis
+</p>
